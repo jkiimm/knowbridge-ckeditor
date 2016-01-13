@@ -1,0 +1,16 @@
+{
+  "name": "knowbridge-editor",
+  "homepage": "https://github.com/jkiimm/knowbridge-ckeditor",
+  "description": "",
+  "main": "ckeditor.js",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
